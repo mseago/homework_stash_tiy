@@ -1,0 +1,10 @@
+*{
+  padding: 0;
+  margin: 0;
+  font-family: cursive;
+}
+p {
+  color: #8A2BE2;
+  padding: 15px;
+  margin: 10px;
+}
